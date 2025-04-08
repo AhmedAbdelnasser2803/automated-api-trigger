@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7362c334-1ca7-497d-8516-8bf932e20c65" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/automated-api-trigger.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/automated-api-trigger.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/request_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/request_data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/request_sender.py" beforeDir="false" afterPath="$PROJECT_DIR$/request_sender.py" afterDir="false" />
-    </list>
+    <list default="true" id="7362c334-1ca7-497d-8516-8bf932e20c65" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
